@@ -14,24 +14,24 @@
     <td>CSS3</td>
     <td>JQuery</td>
     <td>Bootstrap</td>
-    <td>Notepad++</td>
     <td>Drupal</td>
-    <td>Adobe Photoshop CC</td>
-    <td>Adobe DreamWeaver CC</td>
+    <td>Notepad++</td>
     <td>Git</td>
     <td>GitJub</td>
+    <td>Adobe Photoshop CC</td>
+    <td>Adobe DreamWeaver CC</td>
   </tr>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" title="Notepad++" alt="Notepad++" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="drupal" alt="drupal" width="55" height="55"/></td>
-    <td><img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=black&style=for-the-badge"/></td>
-    <td><img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe-Dreamweaver&logoColor=white"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" title="Notepad++" alt="Notepad++" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" title="GitHub" alt="GitHub" width="55" height="55"/></td>
+    <td><img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=black&style=for-the-badge"/></td>
+    <td><img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe-Dreamweaver&logoColor=white"/></td>
   </tr>
 </table>
 
